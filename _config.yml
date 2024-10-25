@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Mechanized Technology Blog | 3D Printing, Electronics, and Gen AI
+title:                 Mechanized Technology 
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description:           >
   I love exploring innovation. Jump into the modern world of Mechatronics using Generative AI with me.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               3D Printing, Electronics, and Gen AI
 
 # A list of keywords for your blog
 keywords:              [3D printing technology, Mechanized manufacturing, Generative artificial intelligence, Electronic component design, Innovation in industry, Advances in robotics, Digital fabrication, Artificial intelligence applications, IoT development, Smart manufacturing solutions, Robotics engineering, Emerging tech trends]
@@ -42,7 +42,7 @@ logo:                  /assets/img/MechanizedTechLogo.png
 author:
   # Used by `jekyll-feed`:
   name:                <Francis> <Gregory>
-  email:               <gwhitmore@gmail.com>
+  email:               <mechanizedwear@gmail.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
