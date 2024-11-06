@@ -8,7 +8,7 @@ hide_last_modified: true
 ---
 ![Data Graphic Header 1](https://creativepolymath.github.io/MechanizedTechBlog/assets/img/blog/data-header1.jpg "The Future of Data in Cycling - Dall-E")
 
-# The Rise of Mechanical Innovation
+# The Rise of Mechatronic Innovation
 
 For centuries, human ingenuity has driven the development of complex machines and technologies that have transformed our world. However, with the advent of 3D printing, electronics, and generative AI, a new era of mechanized innovation is unfolding before our eyes. These cutting-edge technologies are not only pushing the boundaries of what is possible but also democratizing access to design, manufacturing, and problem-solving.
 
@@ -28,7 +28,7 @@ Over the coming weeks and months, expect in-depth guides, tutorials, product rev
 
 ![Data Graphic Header 4](https://creativepolymath.github.io/MechanizedTechBlog/assets/img/blog/data-header4.jpg "The Data Path - Dall-E")
 
-# Get Ready to Unleash Your Inner Mechanic
+# Get Ready to Unleash Your Inner Automaton
 
 As we embark on this journey together, we ask: what problems will you solve? What innovations will you create? How will you leverage 3D printing, electronics, and generative AI to make a lasting impact?
 
