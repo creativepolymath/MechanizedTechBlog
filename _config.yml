@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Merch
-    url:               https://mechanized.square.site/
+  #- title:             Merch
+  #  url:               https://mechanized.square.site/
   #- title:             News
   #  url:               /news/
   #- title:             Archive
